@@ -1,5 +1,4 @@
-LINK: https://professorsergio12.github.io/MUSAFIR/
-
+LINK: https://288hemant.github.io/Musafir/
 Responsive Travel Website 🌊
 Travel website to the most beautiful beaches, using HTML, CSS & JAVASCRIPT.
 Contains animations when scrolling.
